@@ -63,10 +63,9 @@ Collaborative project applying MLOps practices — experiment tracking, pipeline
 
 ### GitHub Stats
 
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saadK3&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saadK3&layout=compact&theme=default&hide_border=true" alt="Top Languages"/>
-</p>
+### GitHub Stats
+
+[![Saad's GitHub stats](https://github-stats-extended.vercel.app/api?username=saadK3)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
